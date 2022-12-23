@@ -18,6 +18,9 @@ List of files / explanation:
 * felibritge: Félibrige (Felibritge)
 * gasconha: Gascony (Gascogne)
 * labrit (plain red): Albret, Montpellier ancient
+* lemosin: Limousin ancient (Lemosin)
+* lengadoc: Languedoc, Occitania without star (Lengadòc)
+* marcha: Marche (ancient)
 * marselha: city of Marseille (Marselha)
 * montpelhier: Montpellier (modern)
 * morgues: Monaco (checkered)
