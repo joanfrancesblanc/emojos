@@ -1,7 +1,7 @@
 # emojos
 Custom Flag Emojis for Mastodon and more
-These are 36x26 PNG extracted from SVG originals built using Inskcape.
-List of files / explanation:
+These are 36x26 PNG extracted from SVG originals built using Inskcape. All SVG versions are in the ZIP file.
+List of PNG files / explanation:
 ## Historical and current flags in Occitania (Occitan name)
 * aguiana: Duchy of Guyenne (Aguiana, Guiana)
 * aran: Val of Aran
