@@ -34,9 +34,12 @@ List of PNG files / explanation:
 * aragon-ancian: Aragon (ancient)
 * arpitania: Arpitania
 * corsica: Corsica
-* elsasslotringe: Republic of Alsace Lorrainne
+* elsasslotringe: Republic of Alsace Lorraine (Elsàss-Lotrìnge, Elsass-Lothringen, Alsàcia e Lorena)
+* gwenhadu: gwen ha du (Britanny, Breizh, Bretanha, modern)
+* ikurrina: ikurriña (Basque country, Euskal Herria, Bascoat)
+* kroazdu: kroaz du (Britanny, Breizh, Bretanha, ancient)
 * kurdistan: Kurdistan
-* milhusa: Republic of Mulhouse/Mulhausen
+* milhusa: Republic of Mulhouse/Mulhausen (Mil.hüsa)
 * mompelgard: Principality of Montbéliard/Mompelgard
 * monferrat: duchy of Montferrat (Piemont)
 * morningstar: West Papua ("Morning Star")
