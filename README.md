@@ -35,6 +35,7 @@ List of PNG files / explanation:
 * arpitania: Arpitania
 * corsica: Corsica
 * elsasslotringe: Republic of Alsace Lorrainne
+* kurdistan: Kurdistan
 * milhusa: Republic of Mulhouse/Mulhausen
 * mompelgard: Principality of Montbéliard/Mompelgard
 * monferrat: duchy of Montferrat (Piemont)
@@ -43,4 +44,11 @@ List of PNG files / explanation:
 * navarra: Navarra modern
 * salm-salm: Principality of Salm-Salm
 * strassburg: city of Strassburg/Strasbourg
+* tibet: Tibet
+* uyghurs: West Turkestan (Xinjiang)
+## Occitan history emojos
+* besiers1209, besiers1209-2: Massacre of Béziers (Besièrs), 1209
+* marmanda1229: Massacre of Marmande (Marmanda), 1229
+* merindou1545: Massacre of Mérindol (Merindòu),1545
+* querimonia: the Querimonia (era Querimònia)
 
