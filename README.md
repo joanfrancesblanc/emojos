@@ -1,7 +1,7 @@
 # emojos
-Custom Flag Emojis for Mastodon and more
-These are 36x26 PNG extracted from SVG originals built using Inskcape. All SVG versions are in the ZIP file.
-List of PNG files / explanation:
+Custom Emojis for Mastodon and more.
+These are 36x26 PNG extracted from SVG originals built using Inskcape. Flags use on intent Twemoji layout (36x26, rounded corners). All SVG versions are in the ZIP file.
+List of PNG files / explanation (SVG ones are in a zip file).
 ## Historical and current flags in Occitania (Occitan name)
 * aguiana: Duchy of Guyenne (Aguiana, Guiana)
 * aran: Val of Aran
@@ -12,23 +12,23 @@ List of PNG files / explanation:
 * barbones: Bourbonnais (Borbonés)
 * bearn: Bearn
 * bergonha: kingdom of Burgundy (reiaume de Bergonha/Borgonha)
-* comtatvenaicin: Comtat Venaicin
+* comtatvenaicin: Comtat Venaissin (Comtat Venaicin)
 * daufinat: Delfinate (Daufinat)
-* draonier: city of Dronero (Draonier)
+* draonier: city of Dronero (Draonier, Dragonier)
 * felibritge: Félibrige (Felibritge)
 * gasconha: Gascony (Gascogne)
-* labrit (plain red): Albret, Montpellier ancient
+* labrit (plain red): Albret (Labrit), Montpellier ancient
 * lemosin: Limousin ancient (Lemosin)
 * lengadoc: Languedoc, Occitania without star (Lengadòc)
-* marcha: Marche (ancient)
-* marselha: city of Marseille (Marselha)
-* montpelhier: Montpellier (modern)
-* morgues: Monaco (checkered)
+* marcha: Marche (ancient) (Marche)
+* marselha: city of Marseille (Marselha) 
+* montpelhier: Montpellier (modern) (Montpelhièr)
+* morgues: Monaco (checkered) (Mónegue or Morgues)
 * occitania-damb-estela: Occitania (with star)
-* peiregord: Perigord
-* provença: Provence
-* saluzzo: marquisate of Saluzzo
-* tolon: city of Toulon
+* peiregord: Perigord (Peiregòrd or Periogòrd)
+* provença: Provence (Provença)
+* saluzzo: marquisate of Saluzzo, most of its territory belongs to Occitania
+* tolon: city of Toulon (Tolon)
 * tolosa-e-provensa: ancient county of Toulouse and marquisate of Provence (Tolosa e Provensa)
 ## Other Flags
 * aragon-ancian: Aragon (ancient)
