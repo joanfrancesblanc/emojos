@@ -39,6 +39,7 @@ List of PNG files / explanation (SVG ones are in a zip file).
 * ikurrina: ikurriña (Basque country, Euskal Herria, Bascoat)
 * kroazdu: kroaz du (Britanny, Breizh, Bretanha, ancient)
 * kurdistan: Kurdistan
+* lorena: Lorena Lotrìnge Lothringen Lorraine
 * milhusa: Republic of Mulhouse/Mulhausen (Mil.hüsa)
 * mompelgard: Principality of Montbéliard/Mompelgard
 * monferrat: duchy of Montferrat (Piemont)
